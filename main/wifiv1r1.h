@@ -1,5 +1,5 @@
-#ifndef WIFISTARGBV1R1_H
-#define WIFISTARGBV1R1_H
+#ifndef WIFISTAV1R1_H
+#define WIFISTAV1R1_H
 
 #include "config.h"
 #include "geralv2r1.h"
